@@ -10,6 +10,7 @@ I'm a software developer from :tunisia: with a background in mathematics and alg
 - 🔭 I’m currently working on:
  	- [ ] Website that helps Dungeon masters in their craft.
 	- [ ] Getting certified on tensorflow.
+	- [ ] Tower defense Game to learn Godot.
 
 
 # :rocket: Langauges and Tools

@@ -7,10 +7,6 @@ I'm a software developer from :tunisia: with a background in mathematics and alg
 - 🔭 I’m currently working as a Software Developer in Japan, at IndustrialML
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about fantasy books :magic_wand:, DND :game_die:, Anime, Games 🎮. 
-- 🔭 I’m currently working on:
- 	- [ ] Website that helps Dungeon masters in their craft.
-	- [ ] Getting certified on tensorflow.
-	- [ ] Tower defense Game to learn Godot.
 
 
 # :rocket: Langauges and Tools
